@@ -1,0 +1,15 @@
+Sample Rate: 20000.000000
+Stage Oscillation: 
+Oscillation Amplitude 20.000000
+Oscillation Frequency 0.500000
+Axis 88.000000
+Seconds: 89.000000
+Sample Rate: 32.000000
+Stage Oscillation: 
+Oscillation Amplitude 83.000000
+Oscillation Frequency 99.000000
+Axis 97.000000
+Seconds: 110.000000
+Sample Rate: 20.000000
+Stage Oscillation: 
+Oscillation Amplitude 
